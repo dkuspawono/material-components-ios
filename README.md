@@ -72,3 +72,4 @@ MDCCatalog uses the
 copyright 2011 Google Inc. and licensed under
 [Apache 2.0](https://github.com/google/fonts/blob/master/apache/roboto/LICENSE.txt)
 without a NOTICE file.
+
