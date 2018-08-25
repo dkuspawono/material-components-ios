@@ -6,4 +6,5 @@
 - [ ] Sign the CLA bot. You can do this once the pull request is opened.
 
 [Contributing](./contributing/README.md#pull-requests) has more information and tips for a great
-pull request.
+tarik permintaan.
+
